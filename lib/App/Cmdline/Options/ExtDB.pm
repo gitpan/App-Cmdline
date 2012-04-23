@@ -12,7 +12,7 @@ use strict;
 package App::Cmdline::Options::ExtDB;
 use parent 'App::Cmdline::Options::DB';
 
-our $VERSION = '0.1_0'; # VERSION
+our $VERSION = '0.1.0'; # VERSION
 
 my @OPT_SPEC = (
     [ 'dbshow' => "show database access properties"  ],
@@ -54,7 +54,7 @@ App::Cmdline::Options::ExtDB - extended set of database-related options for comm
 
 =head1 VERSION
 
-version 0.1_0
+version 0.1.0
 
 =head1 SYNOPSIS
 

@@ -11,7 +11,7 @@ use strict;
 
 package App::Cmdline::Options::Basic;
 
-our $VERSION = '0.1_0'; # VERSION
+our $VERSION = '0.1.0'; # VERSION
 
 my @OPT_SPEC = (
     [ 'h'         => "display a short usage message"  ],
@@ -64,7 +64,7 @@ App::Cmdline::Options::Basic - set of basic options for command-line application
 
 =head1 VERSION
 
-version 0.1_0
+version 0.1.0
 
 =head1 SYNOPSIS
 

@@ -11,7 +11,7 @@ use strict;
 
 package App::Cmdline::Options::DB;
 
-our $VERSION = '0.1_0'; # VERSION
+our $VERSION = '0.1.0'; # VERSION
 
 my @OPT_SPEC = (
     [ 'dbname=s'   => "database name"                                            ],
@@ -40,7 +40,7 @@ App::Cmdline::Options::DB - set of database-related options for command-line app
 
 =head1 VERSION
 
-version 0.1_0
+version 0.1.0
 
 =head1 SYNOPSIS
 

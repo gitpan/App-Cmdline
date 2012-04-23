@@ -12,7 +12,7 @@ use strict;
 package App::Cmdline;
 use parent 'App::Cmd::Simple';
 
-our $VERSION = '0.1_0'; # VERSION
+our $VERSION = '0.1.0'; # VERSION
 
 BEGIN {
     # we need to say no_auto_version early
@@ -127,7 +127,7 @@ App::Cmdline - helper for writing command-line applications
 
 =head1 VERSION
 
-version 0.1_0
+version 0.1.0
 
 =head1 SYNOPSIS
 

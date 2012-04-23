@@ -2,7 +2,7 @@ NAME
     App::Cmdline - helper for writing command-line applications
 
 VERSION
-    version 0.1_0
+    version 0.1.0
 
 SYNOPSIS
     In your command-line script, e.g. in myapp:
