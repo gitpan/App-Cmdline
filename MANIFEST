@@ -7,8 +7,6 @@ META.yml
 Makefile.PL
 README
 README.md
-dist.ini
-dist/App-Cmdline-0.1.0.tar.gz
 docs/App-Cmdline-Options-Basic.html
 docs/App-Cmdline-Options-DB.html
 docs/App-Cmdline-Options-ExtBasic.html
@@ -25,7 +23,6 @@ t/01-testapp.t
 t/App/testapp.pm
 t/author-critic.t
 t/author-pod-spell.t
-t/release-distmeta.t
 t/release-eol.t
 t/release-no-tabs.t
 t/release-pod-syntax.t

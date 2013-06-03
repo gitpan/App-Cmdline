@@ -12,7 +12,7 @@ use strict;
 package App::Cmdline::Options::ExtBasic;
 use parent 'App::Cmdline::Options::Basic';
 
-our $VERSION = '0.1.1'; # VERSION
+our $VERSION = '0.1.2'; # VERSION
 
 use Pod::Usage;
 use Pod::Find qw(pod_where);
@@ -60,7 +60,7 @@ App::Cmdline::Options::ExtBasic - set of basic options for command-line applicat
 
 =head1 VERSION
 
-version 0.1.1
+version 0.1.2
 
 =head1 SYNOPSIS
 

@@ -54,7 +54,7 @@
       },
       "homepage" : "http://search.cpan.org/dist/App-Cmdline"
    },
-   "version" : "0.1.1",
+   "version" : "0.1.2",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.014002"
