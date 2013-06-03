@@ -11,7 +11,7 @@ use strict;
 
 package App::Cmdline::Options::DB;
 
-our $VERSION = '0.1.0'; # VERSION
+our $VERSION = '0.1.1'; # VERSION
 
 my @OPT_SPEC = (
     [ 'dbname=s'   => "database name"                                            ],
@@ -40,7 +40,7 @@ App::Cmdline::Options::DB - set of database-related options for command-line app
 
 =head1 VERSION
 
-version 0.1.0
+version 0.1.1
 
 =head1 SYNOPSIS
 
@@ -111,7 +111,7 @@ Martin Senger <martin.senger@gmail.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Martin Senger, CBRC - KAUST (Computational Biology Research Center - King Abdullah University of Science and Technology) All Rights Reserved.
+This software is copyright (c) 2013 by Martin Senger, CBRC - KAUST (Computational Biology Research Center - King Abdullah University of Science and Technology) All Rights Reserved.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

@@ -12,7 +12,7 @@ use strict;
 package App::Cmdline;
 use parent 'App::Cmd::Simple';
 
-our $VERSION = '0.1.0'; # VERSION
+our $VERSION = '0.1.1'; # VERSION
 
 BEGIN {
     # we need to say no_auto_version early
@@ -127,7 +127,7 @@ App::Cmdline - helper for writing command-line applications
 
 =head1 VERSION
 
-version 0.1.0
+version 0.1.1
 
 =head1 SYNOPSIS
 
@@ -644,7 +644,7 @@ Martin Senger <martin.senger@gmail.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Martin Senger, CBRC - KAUST (Computational Biology Research Center - King Abdullah University of Science and Technology) All Rights Reserved.
+This software is copyright (c) 2013 by Martin Senger, CBRC - KAUST (Computational Biology Research Center - King Abdullah University of Science and Technology) All Rights Reserved.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
